@@ -1,3 +1,22 @@
 [
-  {"question": "hihi cả nhà tự tạo testset bằng cơm nhé", "ground_truth": "Không kịp tạo luôn"},
+  {
+    "question": "Dữ liệu cá nhân cơ bản bao gồm những thông tin gì?",
+    "ground_truth": "Dữ liệu cá nhân cơ bản bao gồm: Họ và tên, ngày tháng năm sinh, giới tính, nơi sinh, quốc tịch, số điện thoại, số CCCD/hộ chiếu, tình trạng hôn nhân, và các thông tin định danh khác."
+  },
+  {
+    "question": "Dữ liệu cá nhân nhạy cảm là gì?",
+    "ground_truth": "Dữ liệu cá nhân nhạy cảm là dữ liệu gắn liền với quyền riêng tư mà khi bị xâm phạm sẽ gây ảnh hưởng trực tiếp tới cá nhân, gồm: quan điểm chính trị, tôn giáo, tình trạng sức khỏe, đặc điểm di truyền, thuộc tính vật lý, đời sống tình dục, và dữ liệu tội phạm."
+  },
+  {
+    "question": "Đối tượng áp dụng của Nghị định 13 là ai?",
+    "ground_truth": "Nghị định áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam; và các tổ chức nước ngoài tham gia xử lý dữ liệu cá nhân tại Việt Nam."
+  },
+  {
+    "question": "Quy định về bảo vệ dữ liệu cá nhân như thế nào?",
+    "ground_truth": "Nghị định 13 quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan."
+  },
+  {
+    "question": "Tên người nộp thuế trong tờ khai BCTC là gì?",
+    "ground_truth": "Tên người nộp thuế là CÔNG TY CỔ PHẦN DHA SURFACES."
+  }
 ]
