@@ -1,0 +1,46 @@
+{
+  "aggregate": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.8207329519338655,
+    "context_precision": 0.9999999999566667,
+    "context_recall": 1.0
+  },
+  "num_questions": 5,
+  "failures": [
+    {
+      "question": "Dữ liệu cá nhân nhạy cảm là gì?",
+      "worst_metric": "answer_relevancy",
+      "score": 0.7714697724195787,
+      "diagnosis": "Answer doesn't match question",
+      "suggested_fix": "Improve prompt template or refine question rewriting"
+    },
+    {
+      "question": "Quy định về bảo vệ dữ liệu cá nhân như thế nào?",
+      "worst_metric": "answer_relevancy",
+      "score": 0.8075056230863299,
+      "diagnosis": "Unknown issue",
+      "suggested_fix": "Investigate further"
+    },
+    {
+      "question": "Đối tượng áp dụng của Nghị định 13 là ai?",
+      "worst_metric": "answer_relevancy",
+      "score": 0.8224428269572043,
+      "diagnosis": "Unknown issue",
+      "suggested_fix": "Investigate further"
+    },
+    {
+      "question": "Tên người nộp thuế trong tờ khai BCTC là gì?",
+      "worst_metric": "answer_relevancy",
+      "score": 0.8345484792622214,
+      "diagnosis": "Unknown issue",
+      "suggested_fix": "Investigate further"
+    },
+    {
+      "question": "Dữ liệu cá nhân cơ bản bao gồm những thông tin gì?",
+      "worst_metric": "answer_relevancy",
+      "score": 0.8676980579439929,
+      "diagnosis": "Unknown issue",
+      "suggested_fix": "Investigate further"
+    }
+  ]
+}
